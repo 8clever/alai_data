@@ -1,4 +1,14 @@
 [
-	{ "date": "05-01-2024", "holders": "164", "profit": "6.5" },
-	{ "date": "06-01-2024", "holders": "258", "profit": "5.2" }
+	{ 
+		"date": "05-01-2024", 
+		"holders": "164", 
+		"profit": "6.5",
+		"link": "https://bscscan.com/tx/0x34e32bb31da5361775a8fdbb9b117f15b8ef6624d422b19d1a258a11b3749ff5"
+	},
+	{ 
+		"date": "06-01-2024", 
+		"holders": "258", 
+		"profit": "5.2",
+		"link": "https://bscscan.com/tx/0x99b1889966b5e63ceb36f9d47af49c6e76d801ac9f4c995f197a1adf5974c132"
+	}
 ]
