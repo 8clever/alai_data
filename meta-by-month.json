@@ -10,5 +10,11 @@
 		"holders": "258", 
 		"profit": "5.2",
 		"link": "https://bscscan.com/tx/0x99b1889966b5e63ceb36f9d47af49c6e76d801ac9f4c995f197a1adf5974c132"
+	},
+	{ 
+		"date": "2024-07-01", 
+		"holders": "472", 
+		"profit": "8.2",
+		"link": "https://bscscan.com/tx/0x3faaaeb7d227f87e664a85462e866a01ec9e7bd72aad92f309d104953e9ee14f"
 	}
 ]
