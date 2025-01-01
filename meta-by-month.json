@@ -47,5 +47,15 @@
 		"profit": "6.3",
 		"distributed_usdt": "33861.92",
 		"link": "https://bscscan.com/tx/0x003e7bd3c572cd8fca213d4f94df6c515eb5d183b543d474dd8d016729ad4a8e" 
+	},
+	{
+		"date": "2024-12-01", 
+		"holders": "2180", 
+		"profit": "4.2",
+		"distributed_usdt": "39130.00",
+		"transactions": [
+			"0xe1a15323426adc13dbd2c181617acc2d32a5ed52af4e8af6e3fd049c380cf592",
+			"0xbd34a78021dd2822a03d3e5abab8b4141ef311f0592a00a6d1ebbb2f528f43be"
+		]
 	}
 ]
