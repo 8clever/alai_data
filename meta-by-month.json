@@ -57,5 +57,15 @@
 			"0xe1a15323426adc13dbd2c181617acc2d32a5ed52af4e8af6e3fd049c380cf592",
 			"0xbd34a78021dd2822a03d3e5abab8b4141ef311f0592a00a6d1ebbb2f528f43be"
 		]
+	},
+	{
+		"date": "2025-01-01", 
+		"holders": "2562", 
+		"profit": "4.4",
+		"distributed_usdt": "76236.00",
+		"transactions": [
+			"0x4a1bafeb921671adb632f8c60de3bf90422d59f12644ef6e59a16bcfb1b0171d",
+			"0x0575b5117ffec71995b01d742011592f8c22976e978bf6dbe87e9c4949c70817"
+		]
 	}
 ]
